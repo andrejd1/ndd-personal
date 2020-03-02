@@ -2274,6 +2274,9 @@ h6 {
   #logo > a > img {
     width: 50px;
   }
+  #header.header-scrolled img {
+    width: 50px;
+  }
 }
 
 /* Mobile Nav Styling */
